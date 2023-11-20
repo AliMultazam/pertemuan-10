@@ -1,0 +1,13 @@
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.SuggestedBindingRedirects.cache
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+D:\Ali\22.61.0235\semester 3\programming\Pertemuan 10\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
